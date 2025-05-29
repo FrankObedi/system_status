@@ -25,7 +25,7 @@ A Bash script for monitoring system health metrics such as CPU utilization, memo
 Clone the repository and make the script executable:
 
 ```bash
-git clone https://github.com/yourusername/system-status-script.git
+git clone https://github.com/FrankObedi/system_status.git
 cd system-status-script
 chmod +x system_status.sh
 
